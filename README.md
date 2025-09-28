@@ -5,7 +5,7 @@ Este projeto faz parte da minha avaliação na Pós-Graduação em Engenharia de
 https://miro.com/app/board/uXjVJFGsfMM=/?share_link_id=941904241129
 
 ## Vídeo explicativo no YouTube
-https://www.youtube.com/
+https://www.youtube.com/watch?v=u97cC9PLLuU
 
 ## Sobre o autor
 
