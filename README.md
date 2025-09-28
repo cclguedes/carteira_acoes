@@ -8,5 +8,4 @@ https://miro.com/app/board/uXjVJFGsfMM=/?share_link_id=941904241129
 https://www.youtube.com/watch?v=u97cC9PLLuU
 
 ## Sobre o autor
-
 Sou Caio Guedes, engenheiro eletricista e especialista em gestão de projetos, trabalhando atualmente como Product Owner de projetos de tecnologia na indústria audiovisual. https://www.linkedin.com/in/cclguedes/
